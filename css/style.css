@@ -67,4 +67,10 @@ table td {
   width: 0px;
   background-color: #FF0000;
 }
+footer{
+  height: 30px;
+}
+p{
+  text-align: center;
+}
 
